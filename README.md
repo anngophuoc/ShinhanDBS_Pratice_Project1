@@ -1,5 +1,5 @@
+# PRACTICE PROJECT 1
 # REST CRUD APIs WITH H2 DATABASE AND JPA
-Đây là file README.md trình bày lại quá trình test APIs của Practice_Project1 bằng Postman
 ***
 
 ## POST /api/tutorials
@@ -37,5 +37,6 @@ Delete tutorial by given id
 ### DELETE /api/tutorials
 Delete all tutorials in database
 ![Delete-all-tutorials](testapi_image/delete-all-tutorial.png "Delete-all-tutorials")
+
 
 
